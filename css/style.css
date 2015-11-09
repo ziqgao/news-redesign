@@ -60,7 +60,7 @@ p{
 	display:none;
 }
 
-@media(max-width: 300px){
+@media(max-width: 302px){
 	.show-desktop{
 		display:none;
 	}
