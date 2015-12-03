@@ -9,39 +9,48 @@ img{
 h1{
 	color:black;
 	font-size:48px;
-	font-family:bold 700;
+	font-family:serif;
 	text-align:center;
 	font-weight: bold;
 }
 .nav{
-	background-color:red;
-	padding-top: 10px;
+	background-color:#FF3300;
+	padding: 10px;
+
 }
 
 span{
-	background-color: black;
+	background-color: #FFCCCC;
 	font-size: 25px;
+	
+}
+.main-sidebar{
+	background-color: #FFCCCC;
 }
 a{
-	color:#CC0000;
-	font-size:28px;
+	color:#FF3300;
+	font-size:25px;
 	font-family:bold 700;
 	text-align:center;
 	font-weight: bold;
+	font-family:sans-serif;
 
 }
 h3{
-	color:#AA0000;
+	color:#FF3300;
 	font-size:28px;
-	font-family:bold 700;
+	font-family:sans-serif;
 	font-weight: bold;
 }
 p{
-	color:#AA0000;
-	font-size:20px;
-	font-family:bold 700;
+	font-size:30px;
+	font-family:sans-serif;
 	text-align:center;
 	font-weight: bold;
+	padding:28px;
+	color:#FF9999;
+	background-color: white;
+
 }
 .box{
 	width:100%;
@@ -68,4 +77,11 @@ p{
 		display:block;
 	}
 
+
+.adbox{
+	padding:28px;
+}
+.kicker{
+	padding:48px;
+	color:#FF9999;
 }
